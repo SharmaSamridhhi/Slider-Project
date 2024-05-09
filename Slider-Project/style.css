@@ -1,0 +1,21 @@
+body{
+    background-color: #927df1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.top{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 50px;
+}
+.icon{
+    font-size: 150px;
+    cursor: pointer;
+}
+.frame{
+    width: 100px;
+    height: 50px;
+}
